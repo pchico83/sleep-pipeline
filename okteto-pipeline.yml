@@ -1,0 +1,2 @@
+deploy:
+  - sleep 10000000
